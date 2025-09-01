@@ -12,15 +12,19 @@ An interactive **Inventory Management Dashboard** built using **Power BI** to mo
 ---
 
 
+https://github.com/user-attachments/assets/fd75bcaf-c11b-4b38-a8b3-f69dc177e93f
+
 
 
 ## 🛠️ Steps Taken  
 
 1. **Data Collection & Cleaning**  
    - Gathered raw sales and inventory data.  
-   - Cleaned missing values, standardized product categories, and validated regional data.  
+   - Cleaned missing values, standardized product categories, and validated regional data.
+   
+2-**calculate important measures using dax**
 
-2. **Dashboard Design**  
+3. **Dashboard Design**  
    - KPI Cards → Revenue, Inventory Value, Stock Available, DOH, Turnover.  
    - Charts →  
      - Monthly stock vs. sales trends.  
@@ -67,7 +71,9 @@ An interactive **Inventory Management Dashboard** built using **Power BI** to mo
    - Track DOH & Turnover monthly.  
    - Set stock alerts for **critical inventory levels**.  
 
----
 
-## 📂 Repository Structure  
+
+
+
+
 
