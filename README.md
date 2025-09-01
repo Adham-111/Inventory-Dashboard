@@ -1,6 +1,6 @@
 # 📊 Inventory Dashboard Project  
 
-An interactive **Inventory Management Dashboard** built using **Excel/Power BI** to monitor and optimize sales, stock, and inventory performance.  
+An interactive **Inventory Management Dashboard** built using **Power BI** to monitor and optimize sales, stock, and inventory performance.  
 
 ---
 
